@@ -3,7 +3,7 @@ include(InstallRequiredSystemLibraries)
 set(CPACK_PACKAGE_VERSION ${PRINT_VERSION})
 set(CPACK_PACKAGE_NAME "solver")
 
-set(CPACK_PACKAGE_CONTACT Green-Ace@gmail.com)
+set(CPACK_PACKAGE_CONTACT GreenAce@gmail.com)
 
 set(CPACK_PACKAGE_DESCRIPTION_FILE ${CMAKE_CURRENT_SOURCE_DIR}/DESCRIPTION)
 
